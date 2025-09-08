@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
-### Name : MUKESH R
-### Register No : 212223240100
+### Name : NARESH M
+### Register No : 212223220064
 
 ## Aim :
  
